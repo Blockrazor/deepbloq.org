@@ -10,7 +10,7 @@ Conway’s law and Amdahl’s law suggest that this level of pervasive and granu
 This is true of all aspects of the project. The problem is too large for a single human mind, but as the initiators of this project we believe that a hive-mind or collective intelligence approach will be able to solve it. Requiring *upfront consensus* before work can be done is a [blocking process](https://en.wikipedia.org/wiki/Blocking_(computing)), so it cannot scale and limits the size of the *hive mind* used to solve the problem. Thus, the "management" of the project must be done in a decentralised and permissionless manner as well. 
 
 ### Evolution vs Intelligent Design
-The C4 is essentially a hill-climbing algorithm, it has a life and direction of its own and doesn't require leadership - just enforcement of the protocol itself. 
+The [C4](http://socialarchitecture.science/c4/) is essentially a hill-climbing algorithm, it has a life and direction of its own and doesn't require leadership - just enforcement of the protocol itself. 
 
 It's akin to Evolution *vs.* Intelligent design; central planning *vs.* the free market. It may sound strange, but open source projects almost universally adopt some form of central command and control structure. The project founders or key developers decide what can and can't go into the project, and what the long term vision is. 
 
